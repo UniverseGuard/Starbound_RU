@@ -267,6 +267,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "dialog/clues.config": [
+        "/human/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've heard rumours of powerful alien artifacts, somewhere out there in space...",
+      "Rus": "До меня дошли слухи о могущественных инопланетных артефактах, где-то там, в космосе ..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/clues.config": [
         "/glitch/default/default/9/glitchEmotedText"
       ]
     },

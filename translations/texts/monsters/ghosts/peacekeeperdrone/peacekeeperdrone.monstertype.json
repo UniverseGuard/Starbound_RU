@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ghosts/peacekeeperdrone/peacekeeperdrone.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peacekeeper Drone",
+      "Rus": "Дрон Миротворцев"
+    }
+  }
+]

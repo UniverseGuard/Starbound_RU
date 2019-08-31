@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/scaveran/poisonscaveran.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Scaveran",
+      "Rus": "Ядовитый Скаверан"
+    }
+  }
+]

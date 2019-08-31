@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ghosts/squeem/firesqueem.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fire Squeem",
+      "Rus": "Огненный Сквим"
+    }
+  }
+]

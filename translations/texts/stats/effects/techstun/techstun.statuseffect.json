@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/techstun/techstun.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tech Stun",
+      "Rus": "Технооглушение"
+    }
+  }
+]

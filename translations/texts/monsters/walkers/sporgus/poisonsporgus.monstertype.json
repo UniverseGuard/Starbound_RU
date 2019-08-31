@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/sporgus/poisonsporgus.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Sporgus",
+      "Rus": "Ядовитый Споргус"
+    }
+  }
+]

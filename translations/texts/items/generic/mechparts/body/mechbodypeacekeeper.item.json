@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodypeacekeeper.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A classic Mech body historically used by Terrene Peacekeeper agents.",
+      "Rus": "Классическое тело меха, исторически используемое агентами Земных Миротворцев."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/body/mechbodypeacekeeper.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peacekeeper Mech Body",
+      "Rus": "Корпус меха Миротворец"
+    }
+  }
+]

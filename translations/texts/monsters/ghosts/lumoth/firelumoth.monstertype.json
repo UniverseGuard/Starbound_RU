@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ghosts/lumoth/firelumoth.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fire Lumoth",
+      "Rus": "Огненный Лимоз"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ghosts/lumoth/firelumoth.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The flame only stays lit while the Lumoth flaps its wings.",
+      "Rus": "Огонь горит только пока Лимоз машет своими крыльями."
+    }
+  }
+]

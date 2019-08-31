@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/crawlers/tintic/electrictintic.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electric Tintic",
+      "Rus": "Электрический Тинтик"
+    }
+  }
+]

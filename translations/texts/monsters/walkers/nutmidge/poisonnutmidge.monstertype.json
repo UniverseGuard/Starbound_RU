@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/nutmidge/poisonnutmidge.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Nutmidge",
+      "Rus": "Ядовитый Натмейдж"
+    }
+  }
+]

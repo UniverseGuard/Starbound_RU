@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/smoglin/poisonsmoglin.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chemical reaction in its belly makes its poisonous breath toxic.",
+      "Rus": "Химические реакции в его животе делают его ядовитое дыхание токсичным."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/smoglin/poisonsmoglin.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Smoglin",
+      "Rus": "Ядовитый Смоглин"
+    }
+  }
+]

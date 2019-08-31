@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/neotommygun/neotommygun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An old gangster classic, reimagined for the modern age.",
+      "Rus": "Старая гангстерская классика, преобразованная под современность."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/neotommygun/neotommygun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neo Tommy Gun",
+      "Rus": "Нео Томми-ган"
+    }
+  }
+]

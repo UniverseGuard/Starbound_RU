@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/cosmicintruder/cosmicintruder.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An entity born outside of physical space and time.",
+      "Rus": "Сущность, рожденная вне физического пространства и времени."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/cosmicintruder/cosmicintruder.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cosmic Intruder",
+      "Rus": "Вторженец из космоса"
+    }
+  }
+]

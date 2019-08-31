@@ -1,0 +1,62 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/polygonplatform.matitem": [
+        "/glitchdescription/glitchEmotedText"
+      ],
+      "tiles/platforms/polygonplatform.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "A platform made from \"Hard Light\".",
+      "Rus": "Платформа из \"Твёрдого света\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/polygonplatform.matitem": [
+        "/description"
+      ],
+      "tiles/platforms/polygonplatform.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A smooth platform made from \"Hard Light\".",
+      "Rus": "Гладкая платформа, сделанная из \"Твёрдого света\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/polygonplatform.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/platforms/polygonplatform.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Polygon Platform",
+      "Rus": "Многоугольная платформа"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/polygonplatform.matitem": [
+        "/florandescription"
+      ],
+      "tiles/platforms/polygonplatform.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Thisss platform humsss with energy.",
+      "Rus": "Эта платформа гудит от энергии."
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/gluesprayer/gluesprayer.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Glue Sprayer",
+      "Rus": "Клеевой пистолет"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/gluesprayer/gluesprayer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Spray a sticky foam that slows down enemies!",
+      "Rus": "Выстреливает липкой пеной, которая замедляет врагов!"
+    }
+  }
+]

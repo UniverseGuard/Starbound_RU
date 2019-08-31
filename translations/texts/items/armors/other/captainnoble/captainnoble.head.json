@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/captainnoble/captainnoble.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Captain Noble Head",
+      "Rus": "Голова Капитана Нобеля"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/other/captainnoble/captainnoble.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "For Captain Noble - not for wearing yourself!",
+      "Rus": "Для Капитана Нобеля - не одевать на себя!"
+    }
+  }
+]

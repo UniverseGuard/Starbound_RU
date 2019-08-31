@@ -1,0 +1,20 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/neomagnum/neomagnum1.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/ranged/unrand/neoshotgun/npcneoshotgun.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/ranged/unrand/neotommygun/npcneotommygun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neo Magnum",
+      "Rus": "Нео Магнум"
+    }
+  }
+]

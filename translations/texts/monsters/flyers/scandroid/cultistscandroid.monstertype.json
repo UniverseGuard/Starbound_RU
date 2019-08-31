@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/scandroid/cultistscandroid.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cultist Scandroid",
+      "Rus": "Скандроид Культистов"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/flyers/scandroid/cultistscandroid.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This Scandroid has been repurposed by the Occasus Cult.",
+      "Rus": "Этот Скандроид был переделан под нужды Культа Окказус."
+    }
+  }
+]

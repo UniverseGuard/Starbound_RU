@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/crawlers/snaggler/icesnaggler.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Snaggler",
+      "Rus": "Ледяной снагглер"
+    }
+  }
+]

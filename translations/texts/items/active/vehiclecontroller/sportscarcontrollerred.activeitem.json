@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/vehiclecontroller/sportscarcontrollerred.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Create a red painted sports car from stored nanites.",
+      "Rus": "Создаёт красную гоночную машину из имеющихся нанитов."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/vehiclecontroller/sportscarcontrollerred.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Red Sports Car Controller",
+      "Rus": "Пульт красной гоночной машины"
+    }
+  }
+]

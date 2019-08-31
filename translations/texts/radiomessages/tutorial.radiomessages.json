@@ -29,6 +29,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/tutorial.radiomessages": [
+        "/peacekeeper02/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hope you like the new station, partner! We've even got a ^orange;Peacekeeper supply store^white; now!",
+      "Rus": "Надеюсь тебе нравиться новая станция, партнёр! У нас теперь даже есть  ^orange;магазин припасов Миротворцев^white;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
         "/pickupflag/text"
       ]
     },
@@ -101,6 +113,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "radiomessages/tutorial.radiomessages": [
+        "/peacekeeper03/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "The new station ain't too bad, if I say so myself! We're risin' up, partner!",
+      "Rus": "Как по мне, новая станция не так уж и плоха! Мы растём, партнёр!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
         "/hungry/text"
       ]
     },
@@ -119,6 +143,30 @@
     "Texts": {
       "Eng": "This door will transport you to a challenging room that you may attempt to traverse. I applaud your intrepid disposition.",
       "Rus": "Эта дверь перенесет вас в комнату испытаний. Я аплодирую вашему бесстрашному нраву."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/peacekeeper05/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "We've finally hit the big time, partner! The Peacekeepers are well an' truly back, and lookin' finer than ever!",
+      "Rus": "Мы наконец-то добились успеха партнёр! Теперь Миротворцы действительно вернулись и стали круче чем были!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "radiomessages/tutorial.radiomessages": [
+        "/peacekeeper04/text"
+      ]
+    },
+    "Texts": {
+      "Eng": "Welcome to our mighty fine new place, partner! Why not check out our ^orange;Peacekeeper Furnishing store^white;?",
+      "Rus": "Добро пожаловать в наше классное новое место, партнёр! Посмотришь ^orange;магазин мебели Миротворцев^white;?"
     }
   },
   {

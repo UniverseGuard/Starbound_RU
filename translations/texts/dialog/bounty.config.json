@@ -1,0 +1,2145 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "A REAL sharpshooter is able to eat all their clothes when the goin' gets tough! I know I can!",
+      "Rus": "НАСТОЯЩИЙ снайпер может съесть всю свою одежду, когда дела идут плохо! Я знаю, что я могу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/apex/default/2",
+        "/flee/avian/default/2",
+        "/flee/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "And that's my cue to leave!",
+      "Rus": "И это намек на то, что я ухожу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "BLAME THE MINIKNOG FOR MY ACTIONS, I'VE NEVER BEEN THE SAME AFTER THEIR EXPERIMENTS, OKAY?!",
+      "Rus": "ВИНИТЕ МИНИСТЕРСТВО В МОИХ ДЕЙСТВИЯХ, МЕНЯ БУДТО ПОДМЕНИЛИ ПОСЛЕ ИХ ЭКСПЕРИМЕНТОВ, ЛАДНО?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeWait/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Before you arrest Floran, Floran wantsss to make deal!",
+      "Rus": "Перед тем, как ты арестуешь Флорана, Флоран хочет заключить сссделку!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeWait/apex/default/1",
+        "/bribeWait/avian/default/1",
+        "/bribeWait/default/default/1",
+        "/bribeWait/hylotl/default/1",
+        "/bribeWait/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Before you arrest me, I want to offer you a deal!",
+      "Rus": "Перед тем, как арестуешь меня, я хочу предложить тебе сделку!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeWait/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Before you arrest me, please listen to my offer!",
+      "Rus": "Прежде чем арестовать меня, пожалуйста выслушай моё предложение!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bounty? Who said anything about a bounty? I am just here to enjoy nature!",
+      "Rus": "Награда? Кто сказал про награду? Я тут просто природой наслаждаюсь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/apex/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clothes are shackles of the establishment - I'm better without them!",
+      "Rus": "Одежда это оковы успешности. Мне лучше без них!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/default/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "Clothes are shackles of the establishment - I'm better without them! HA HA!",
+      "Rus": "Одежда это оковы успешности. Мне лучше без них! ХА ХА!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/apex/default/2",
+        "/deceptive/default/default/2",
+        "/deceptive/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "DON'T MIND ME, I'M JUST ANOTHER FACE IN THE CROWD. JUST LIVING MY LIFE.",
+      "Rus": "НЕ ОБРАЩАЙ ВНИМАНИЯ, Я ПРОСТО ОЧЕРЕДНОЕ ЛИЦО В ТОЛПЕ. ПРОСТО ЖИВУ СВОЕЙ ЖИЗНЬЮ."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/avian/default/3",
+        "/crazy/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "DON'T TOUCH ANYTHING! THERE'S TOO MANY SHARP CORNERS!",
+      "Rus": "НИЧЕГО НЕ ТРОГАЙ! ТУТ СЛИШКОМ МНОГО ОСТРЫХ УГЛОВ!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/avian/default/0",
+        "/deceptiveEnd/default/default/0",
+        "/deceptiveEnd/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dang, you saw through my clever ruse.",
+      "Rus": "Черт, ты разгадал<player.pronoun.verbEnding> мою хитрую уловку."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Dangnabbit, you saw through my mighty fine disguise!",
+      "Rus": "Проклятье, ты раскрыл мою прекрасную маскировку!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeWait/apex/default/2",
+        "/bribeWait/avian/default/2",
+        "/bribeWait/default/default/2",
+        "/bribeWait/hylotl/default/2",
+        "/bribeWait/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't arrest me! I have a proposition for you!",
+      "Rus": "Не арестовывай меня! У меня есть предложение для тебя!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/caughtFleeing/apex/default/2",
+        "/caughtFleeing/avian/default/2",
+        "/caughtFleeing/default/default/2",
+        "/caughtFleeing/glitch/default/2/glitchEmotedText",
+        "/caughtFleeing/hylotl/default/2",
+        "/caughtFleeing/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Don't get mad! I just thought I could outrun you!",
+      "Rus": "Не злись! Я просто думал<self.pronoun.verbEnding>, что могу сбежать от тебя!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/avian/default/2",
+        "/crazy/default/default/3",
+        "/crazy/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "EVERYTHING IS SQUARES! EVERYTHING IS SQUARES, DON'T YOU SEE?!",
+      "Rus": "ВСЁ В КВАДРАТАХ! ВСЁ В КВАДРАТАХ, РАЗВЕ НЕ ВИДИШЬ?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "FLORAN CAN REVEAL TO YOU ANCIENT SECRETSSS!",
+      "Rus": "ФЛОРАН МОЖЕТ РАСКРЫТЬ ТЕБЕ ДРЕВНИЕ СССЕКРЕТЫ!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "FLORAN DOESN'T KNOW ABOUT ANY CRIMESSS. FLORAN JUST FLORAN.",
+      "Rus": "ФЛОРАН НЕ ЗНАЕТ НИ О КАКИХ ПРЕСТУПЛЕНИЯХ. ФЛОРАН ПРОСТО ФЛОРАН."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "FLORAN DOESN'T SEE ANY SSSUSPICION.",
+      "Rus": "ФЛОРАН НЕ ВИДИТ НИЧЕГО СССТРАННОГО."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "FLORAN DRANK OLD PRUNE JUICE AND HASSS NOT BEEN THE SAME SINCE!",
+      "Rus": "ФЛОРАН ВЫПИЛ СТАРОГО ЧЕРНОСЛИВОВОГО СОКА И ЕГО БУДТО ПОДМЕНИЛИ С ТЕХ ПОР!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "FLORAN HASSS BEEN EATING DIRT! DON'T TAKE FLORAN'S DELICIOUSSS DIRT AWAY!",
+      "Rus": "ФЛОРАН ЕЛ ГРЯЗЬ! НЕ ЗАБИРАЙ ВКУСНУЮ ГРЯЗЬ ФЛОРАНА!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "FLORAN ISN'T SSSUSPICIOUS. FLORAN LAW-ABIDING SSSTRANGER.",
+      "Rus": "ФЛОРАН НЕ ПОДОЗРИТЕЛЕН. ФЛОРАН ЗАКОНОПОСЛУШНЫЙ ПРОХОЖИЙ."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "FLORAN ISSS READY TO PARTY!",
+      "Rus": "ФЛОРАН ГОТОВ ВЕСЕЛИТЬСЯ!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran admitsss deceit!",
+      "Rus": "Флоран признаёт обман!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hasss been found out!",
+      "Rus": "Флоран догадался!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran hasss to go!",
+      "Rus": "Флоран должен идти!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeDeclined/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran isss impressed with your moral fortitude!",
+      "Rus": "Флоран поражен твоей моральной ссстойкостью!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeAccepted/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran knew you could be bribed! Time for Floran to ssslip away!",
+      "Rus": "Флоран знал, что тебя могли подкупить! Время флорану сссматываться!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeAccepted/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran knew you would accept a bribe!",
+      "Rus": "Флоран знал, что ты сссогласишься на взятку!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran needsss to get out of here!",
+      "Rus": "Флорану надо убираться отсюда!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/caughtFleeing/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran normally fassst enough...",
+      "Rus": "Обычно флоран достаточно быстрый..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/floran/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran thinksss universe lacksss meaning and now Floran vowsss to destroy everything!",
+      "Rus": "Флоран сссчитает, что вселенной не хватает сссмысла, и теперь флоран клянется уничтожить все!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/floran/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran thought thisss disguise would work!",
+      "Rus": "Флоран думал, что эта маскировка сссработает!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/tricked/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran tricked you with fake handcuffsss!",
+      "Rus": "Флоран обманул тебя фальшивыми наручниками!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/tricked/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran used fake handcuffsss! Floran ssstill free!",
+      "Rus": "Флоран использовал фальшивые наручники! Флоран все еще сссвободен!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran was in disguise!",
+      "Rus": "Флоран замаскировался!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/caughtFleeing/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran was outrun? How did thisss happen?!",
+      "Rus": "Флоран сбежал? Как это ссслучилось?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/caughtFleeing/floran/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran wasn't fast enough!?",
+      "Rus": "Флоран был недостаточно быстр?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/default/default/10"
+      ]
+    },
+    "Texts": {
+      "Eng": "GIVE ME MORE FLU SHOTS! I'LL BE A LIVING GOD!",
+      "Rus": "ДАЙТЕ МНЕ БОЛЬШЕ ПРИВИВОК ОТ ГРИППА! Я БУДУ ЖИВЫМ БОГОМ!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeAccepted/apex/default/0",
+        "/bribeAccepted/avian/default/0",
+        "/bribeAccepted/default/default/0",
+        "/bribeAccepted/hylotl/default/0",
+        "/bribeAccepted/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Good choice. I knew you looked like the type who would accept a bribe!",
+      "Rus": "Хороший выбор. Я знал<self.pronoun.verbEnding>, что ты смахиваешь на кого-то, кто согласится на взятку!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings! My name is ^orange;Ape Incognito^white;, what can I assist you with?",
+      "Rus": "Приветствую! Меня зовут ^orange;Эйп Инкогнито^white;, чем я могу помочь вам?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Greetings! My name is ^orange;Bird T. Rustworthy^white;, what can I assist you with?",
+      "Rus": "Приветствую! Меня зовут ^orange;Бёрд Т. Растворфи^white;, чем я могу помочь вам?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/tricked/apex/default/1",
+        "/tricked/avian/default/1",
+        "/tricked/default/default/1",
+        "/tricked/hylotl/default/1",
+        "/tricked/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ha! I tricked you with those fake handcuffs! You haven't caught me just yet!",
+      "Rus": "Ха! Я обманул<self.pronount.verbEnding> тебя этими фальшивыми наручниками! Ты еще не поймал меня!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/tricked/apex/default/0",
+        "/tricked/avian/default/0",
+        "/tricked/default/default/0",
+        "/tricked/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Haha, you haven't actually caught me. Those were fake handcuffs I put on myself!",
+      "Rus": "Хаха, ты еще не поймал<player.pronoun.verbEnding>  меня. Это были фальшивые наручники, которые я на себя надел<self.pronoun.verbEnding> !"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/tricked/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Haha, you haven't actually caught me. Those were fake handcuffs I put on!",
+      "Rus": "Хаха, ты еще не поймал<player.pronoun.verbEnding> меня. Это были фальшивые наручники, которые я надел<self.pronoun.verbEnding>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hello there, friendo! My name is ^orange;Guy Person^white;, what can I assist you with?",
+      "Rus": "Привет, дружище! Меня зовут ^orange;Гай Персон^white;, чем я могу помочь тебе?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hey partner! Ain't this a mighty fine day for bein' a law-abidin' citizen?",
+      "Rus": "Эй, партнер! Разве это не отличный день для того, чтобы быть «законопослушным» гражданином?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeDeclined/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hmph! You'll regret this!",
+      "Rus": "Хмф! Ты за это ответишь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "How did you know it was a disguise?!",
+      "Rus": "Как ты узнал<player.pronoun.verbEnding> , что это была маскировка?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/default/default/9"
+      ]
+    },
+    "Texts": {
+      "Eng": "I AM A GOLDEN GOD!",
+      "Rus": "Я ЗОЛОТОЙ БОГ!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/hylotl/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "I HAVE A SECRET FOURTH EYE AND IT CAN SENSE YOUR FEAR!",
+      "Rus": "У МЕНЯ ЕСТЬ ТАЙНЫЙ ЧЕТВЕРТЫЙ ГЛАЗ И ОН ЧУВСТВУЕТ ТВОЙ СТРАХ!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/avian/default/5",
+        "/crazy/default/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I SEE BEHIND THE CURTAIN! NONE OF THIS IS REAL, IT'S ALL JUST A GAME, DON'T YOU SEE?!",
+      "Rus": "Я СМОТРЮ ЗА ШИРМУ! НИЧТО ИЗ ЭТОГО НЕ РЕАЛЬНО, ЭТО ВСЕГО ЛИШЬ ИГРА, НЕУЖЕЛИ ТЫ НЕ ВИДИШЬ?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/caughtFleeing/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I ain't gettin' away from you, am I?",
+      "Rus": "Я не убегаю от тебя, не так ли?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am merely a wandering bard. I am not worthy of any suspicion! Verily!",
+      "Rus": "Я просто странствующий бард. Я не из тех, на кого тебе стоит тратить время! Воистину!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am merely a wandering nomad. I am not worthy of any suspicion!",
+      "Rus": "Я просто странствующий кочевник. Я не из тех, на кого тебе стоит тратить время! Воистину!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/avian/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I am non-suspicious bird, you can trust me!",
+      "Rus": "Я не подозрительная птица, можешь мне верить!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/avian/default/0",
+        "/crazy/default/default/0",
+        "/crazy/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I ate too many computer parts and now all I can see are circuits!",
+      "Rus": "Я съел<self.pronoun.verbEnding> слишком много частей компьютеров и теперь все, что я вижу - это схемы!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I believe I'm in quite a predicament, yesiree!",
+      "Rus": "Я думаю, что я в затруднительном положении, да!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/caughtFleeing/apex/default/0",
+        "/caughtFleeing/avian/default/0",
+        "/caughtFleeing/default/default/0",
+        "/caughtFleeing/glitch/default/0/glitchEmotedText",
+        "/caughtFleeing/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't get away from you, can I?",
+      "Rus": "Я не могу уйти от тебя, не так ли?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't take it anymore! Nothin' makes sense! How can I even talk when I have no actual face?!",
+      "Rus": "Я не могу больше это терпеть! Ничто не имеет смысла! Как я могу говорить, когда у меня нет настоящего лица ?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I gotta go!",
+      "Rus": "Я долж<player.pronoun.verb2Ending> идти!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/caughtFleeing/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess I ain't fast enough. Does that mean we have to fight, instead?",
+      "Rus": "Похоже, что я недостаточно быстр<self.pronoun.adj2Ending>. Выходит, мы должны драться?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/hylotl/floran/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess I underestimated your kind, huh?",
+      "Rus": "Думаю, я недооценил<self.pronoun.verbEnding> твой вид, а?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/caughtFleeing/avian/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess I'm not fast enough - I thought these feathers would make me more aerodynamic!",
+      "Rus": "Думаю, я недостаточно быстр<self.pronoun.adj2Ending> - я думал<self.pronoun.verbEnding>, что эти перья сделают меня более аэродинамичн<self.pronoun.adj4Ending>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/caughtFleeing/apex/default/1",
+        "/caughtFleeing/default/default/1",
+        "/caughtFleeing/glitch/default/1/glitchEmotedText",
+        "/caughtFleeing/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess I'm not fast enough. Does that mean we have to fight, instead?",
+      "Rus": "Кажется, я слишком медленн<self.pronoun.adj2Ending>. Значит ли это, что мы должны драться?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/caughtFleeing/apex/default/3",
+        "/caughtFleeing/avian/default/3",
+        "/caughtFleeing/default/default/3",
+        "/caughtFleeing/hylotl/default/3",
+        "/caughtFleeing/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I guess running away didn't work... It normally does!",
+      "Rus": "Похоже, удрать не получилось... Обычно это работает!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/glitch/default/5/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have realised that clothes only bind us - but I am a slave no more!",
+      "Rus": "Я понял<self.pronoun.verbEnding>, что одежда нас только сковывает - но я больше не раб!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/tricked/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I have utilised fake handcuffs to trick you! I am still free!",
+      "Rus": "Я использовал<self.pronoun.verbEnding> фальшивые наручники, чтобы обмануть тебя! Я все еще свобод<self.pronoun.verb2Ending>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I installed some new parts in my brain and now I can see the secret colour!",
+      "Rus": "Я установил<self.pronoun.verbEnding> некоторые новые части в мой мозг и теперь я могу видеть тайные цвета!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeAccepted/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I knew I could buy you out! Thanks for helping me get away!",
+      "Rus": "Я знал<self.pronoun.verbEnding>, что могу подкупить тебя! Спасибо, что помог<self.pronoun.verb4Ending> мне выбраться!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeAccepted/apex/default/1",
+        "/bribeAccepted/avian/default/1",
+        "/bribeAccepted/default/default/1",
+        "/bribeAccepted/hylotl/default/1",
+        "/bribeAccepted/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I knew I could buy you out! Thanks for helping me get away, pal!",
+      "Rus": "Я знал<self.pronoun.verbEnding>, что могу подкупить тебя! Спасибо, что помог<self.pronoun.verb4Ending> мне выбраться, приятель!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeAccepted/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I knew you looked like the type who would accept a bribe!",
+      "Rus": "Я знал<self.pronoun.verbEnding>, что ты смахиваешь на кого-то, кто согласится на взятку!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I might have a computer virus! All clothes are itchy now!",
+      "Rus": "У меня может быть компьютерный вирус! Вся одежда зудит!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need to get out of here!",
+      "Rus": "Мне надо выбираться отсюда!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/novakid/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need to get outta dodge!",
+      "Rus": "Мне надо увильнуть отсюда!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I need to leave!",
+      "Rus": "Мне надо уходить!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I remember now what we were made for! THEY BUILT US TO MEET ^orange;IT^reset;! DON'T YOU SEE?!",
+      "Rus": "Теперь я помню, для чего мы были созданы! ОНИ СОЗДАЛИ НАС, ЧТОБЫ ВСТРЕТИТЬ ^orange;ЭТО^reset;! НЕ ВИДИШЬ ?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/glitch/default/4/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I sat in an electromagnetic coil and now I'm magnetic! Fear my awesome power!",
+      "Rus": "Я сидел<self.pronoun.verbEnding> в электромагнитной катушке и теперь я магнит! Бойся моей удивительной силы!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I see no criminals around here, Peacekeeper. Not a single bounty in sight.",
+      "Rus": "Здесь я не вижу преступников, Миротворец. Ни одной возможности получить награду вокруг."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/avian/default/0",
+        "/deceptive/default/default/0",
+        "/deceptive/hylotl/default/0",
+        "/deceptive/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I see no criminals around here. No siree, not a bounty in sight.",
+      "Rus": "Я не вижу ни одного преступника вокруг. Нет, сэр, ни одной возможности получить награду в поле зрения."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I shouldn't have volunteered for all those Miniknog test programs... I've never been the same since!",
+      "Rus": "Я не долж<self.pronoun.verb2Ending> был<self.pronoun.verbEnding> добровольно участвовать во всех этих экспериментальных программах Министерства... С тех пор меня будто подменили!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/caughtFleeing/glitch/default/3/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I suppose running away didn't work... It normally does!",
+      "Rus": "Я полагаю, что побег не сработает... Обычно это работает! "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I sure ain't up to any wrong-doin' today! I'm jus' here to... Paint my wagon!",
+      "Rus": "Я уверен<self.pronoun.verbEnding>, что не сделал<self.pronoun.verbEnding> ничего плохого сегодня! Я здесь просто, чтобы ... покрасить свой фургон!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "I sure ain't up to any wrong-doin' today! Not me, partner!",
+      "Rus": "Я уверен<self.pronoun.verbEnding>, что не сделал<self.pronoun.verbEnding> ничего плохого сегодня! Не я, приятель!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/tricked/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I used fake handcuffs - you still haven't caught me! You shall have to do better than that to catch me!",
+      "Rus": "Я использовал<self.pronoun.verbEnding> поддельные наручники - и ты все еще не поймал<player.pronoun.verbEnding> меня! Тебе придется придумать что-то получше, если хочешь меня поймать!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/avian/default/4",
+        "/crazy/default/default/5",
+        "/crazy/hylotl/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'M NOT MAD, I JUST SEE THE TRUTH! WE'RE ALL LIVING IN A SIMULATION!",
+      "Rus": "БЕЗУМИЕ НЕ ПОГЛОТИЛО МЕНЯ, Я ВСЕГО ЛИШЬ ВИЖУ ПРАВДУ! МЫ ВСЕ ЖИВЕМ В СИМУЛЯЦИИ!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll admit it - I was lying! It IS me you're after!",
+      "Rus": "Я признаю - я врал<self.pronoun.verbEnding>! Это Я тебе нуж<self.pronoun.verb2Ending>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'll admit it - It was I, <selfname>, all along!",
+      "Rus": "Я признаю это - это был<self.pronoun.verbEnding> я, <selfname>, все время!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm a fool - you saw through my clever ruse.",
+      "Rus": "Я дурак - ты раскрыл<player.pronoun.verbEnding> мою хитрую уловку."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm havin' those dreams! I was a golden god! We all were, I'm tellin' yer!",
+      "Rus": "У меня есть эти мечты! Я был золотым богом! Мы все были, я говорю тебе!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/avian/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not a criminal - I'm just... Another travelling Avian, spreading the word of Kluex! Praise be!",
+      "Rus": "Я не преступник - я просто ... еще один путешествующий Авиан, распространяющий слово Клюэкса! Хвала ему!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/hylotl/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm not a criminal - I'm just... Another wandering artist! I paint watercolours!",
+      "Rus": "Я не преступник - я просто ... очередной странствующий художник! Я рисую акварелью!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/hylotl/floran/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I've been rumbled, and by a Floran no less!",
+      "Rus": "Я был<self.pronoun.verbEnding> ошарашен<self.pronoun.verbEnding>, в том числе и тем, что ты флоран!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/avian/default/8"
+      ]
+    },
+    "Texts": {
+      "Eng": "IT'S ME! I'M KLUEX REBORN! I'VE RETURNED!",
+      "Rus": "ЭТО Я! Я ПЕРЕРОДИВШИЙСЯ КЛЮЭКС! Я ВЕРНУЛСЯ!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/apex/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "IT'S NOT MY FAULT I'M MAD, THE MINIKNOG DID THINGS TO ME!",
+      "Rus": "В МОЁМ БЕЗУМИИ НЕТ МОЕЙ ВИНЫ, ЭТО МИНИСТЕРСТВО СО МНОЙ СОТВОРИЛО!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeHat/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you let me go, you can have, uh, ^orange;my hat^reset; instead! I know you want it!",
+      "Rus": "Если ты отпустишь меня, то сможешь оставить ^orange;мою шляпу^reset; себе! Я знаю, ты хочешь это!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeHat/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you stop arresting me an' let me go, you can have ^orange;my hat^reset; as compensation! What do you think?",
+      "Rus": "Если ты не станешь меня арестовывать и отпустишь, то можешь забрать ^orange;мою шляпу^reset; себе как компенсацию! Что скажешь?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeMysteryItem/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you stop arresting me an' let me go, you can have this ^orange;rare item^reset; as compensation!",
+      "Rus": "Если ты не станешь меня арестовывать и отпустишь, то можешь забрать себе этот ^orange;редкий предмет^reset; как компенсацию!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeHat/default/default/2",
+        "/bribeHat/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you stop arresting me and let me go, you can have ^orange;my hat^reset; as compensation! What do you think?",
+      "Rus": "Если ты не станешь меня арестовывать и отпустишь, то можешь забрать ^orange;мою шляпу^reset; себе как компенсацию! Что скажешь?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeMysteryItem/default/default/2",
+        "/bribeMysteryItem/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you stop arresting me and let me go, you can have this ^orange;rare item^reset; as compensation!",
+      "Rus": "Если ты не станешь меня арестовывать и отпустишь, то можешь забрать себе этот ^orange;редкий предмет^reset; как компенсацию!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeHat/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you stop trying to arrest Floran, Floran can give you ^orange;Floran's hat^reset;!",
+      "Rus": "Если ты не сссстанешь арестовывать флорана, то то флоран подарит тебе свой ^orange;головной убор^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeMysteryItem/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you stop trying to arrest Floran, Floran can give you thisss ^orange;shiny treasure^reset;!",
+      "Rus": "Если ты не сссстанешь арестовывать флорана, то то флоран подарит тебе это ^orange;сссияющее сокровище^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeMysteryItem/glitch/default/0/glitchEmotedText",
+        "/bribeMysteryItem/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you stop trying to arrest me, I'll give you this ^orange;valuable item^reset;! What do you think?",
+      "Rus": "Если ты не станешь арестовывать меня, то я подарю тебе этот ^orange;ценный предмет^reset:! Что скажешь?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeHat/default/default/0",
+        "/bribeHat/glitch/default/0/glitchEmotedText",
+        "/bribeHat/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you stop trying to arrest me, you can have ^orange;my hat^reset;! What do you think?",
+      "Rus": "Если ты не станешь арестовывать меня, то можешь взять себе ^orange;мою шляпу^reset;! Что думаешь?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeMysteryItem/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you stop trying to arrest me, you can have my ^orange;lucky charm^reset; instead!",
+      "Rus": "Если ты не станешь меня арестовывать, то можешь оставить себе мой ^orange;талисман^reset; взамен!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeMysteryItem/default/default/1",
+        "/bribeMysteryItem/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you stop trying to arrest me, you can have my ^orange;precious family heirloom^reset;! Trust me!",
+      "Rus": "Если ты не станешь арестовывать меня, то можешь взять мою ^orange;драгоценную семейную реликвию^reset;! Поверь мне!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeHat/glitch/default/1/glitchEmotedText",
+        "/bribeHat/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "If you stop trying to arrest me, you can have, uh, ^orange;my hat^reset; instead! I know you want it!",
+      "Rus": "Если ты не станешь арестовывать меня, то можешь взять, эм, ^orange;мой головной убор^reset;! Я знаю, что ты хочешь этого!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is time for me to depart!",
+      "Rus": "Мне пора уходить!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is time that I left, and fast!",
+      "Rus": "Мне пора драпать, и быстро!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/hylotl/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "It is time that I slipped away!",
+      "Rus": "Пришло мне время ускользнуть!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "It was a trick! I decieved you!",
+      "Rus": "Это был обман! Я обманул<self.pronoun.verbEnding> тебя!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's time for me to hot-foot it outta here!",
+      "Rus": "Время мне делать ноги отсюда!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/apex/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's time for me to make like a banana and split!",
+      "Rus": "Пора мне, пожалуй, улететь отсюда как шарик!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/avian/default/1",
+        "/flee/default/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's time for me to split!",
+      "Rus": "Мне пора сваливать! "
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/avian/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "It's time for this bird to fly!",
+      "Rus": "Время птичке улететь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeWait/apex/default/3",
+        "/bribeWait/avian/default/3",
+        "/bribeWait/default/default/3",
+        "/bribeWait/glitch/default/1/glitchEmotedText",
+        "/bribeWait/hylotl/default/3",
+        "/bribeWait/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just hold on a minute! I have a most intriguing offer for you...",
+      "Rus": "Эй, постой! У меня есть более интригующее предложение для тебя..."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Like a leaf in a river, I flee!",
+      "Rus": "Как лист по реке, я ускользаю!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/avian/default/6",
+        "/crazy/default/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "Look what you've made me do!",
+      "Rus": "Только посмотри, что ты заставил<player.pronoun.verbEnding> меня сделать!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "My mind is connected to my ancient brethren - I see now what they saw in the space between worlds!",
+      "Rus": "Мой разум связан с моими древними братьями - теперь я вижу то, что они видели в пространстве между мирами!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/caughtFleeing/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "NO RETREAT, NO SURRENDER!",
+      "Rus": "НЕ ОТСТУПАТЬ, НЕ СДАВАТЬСЯ!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/apex/default/3",
+        "/deceptiveEnd/avian/default/3",
+        "/deceptiveEnd/default/default/3",
+        "/deceptiveEnd/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "No, my perfect disguise! I've been rumbled!",
+      "Rus": "Нет, моя идеальная маскировка! Я разоблачен<self.pronoun.verbEnding>!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "No, my perfect disguise! This ain't my luckiest day, is it?",
+      "Rus": "Нет, моя идеальная маскировка! Это точно не мой счастливый день, верно?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeDeclined/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nope? Well ain't that a disappointment!",
+      "Rus": "Нет? Ну, разве это не разочарование!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeDeclined/default/default/2",
+        "/bribeDeclined/glitch/default/1/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Oh well, too bad! You're missing out!",
+      "Rus": "О нет, слишком плохо! Ты многое теряешь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeWait/glitch/default/2/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "Please, here my offer and you may think twice about arresting me!",
+      "Rus": "Прошу, вот мое предложение и подумай дважды перед тем, как арестовывать меня!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeWait/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop! Floran wantsss to make deal with you!",
+      "Rus": "Сссстой! У флорана есть предложение к тебе!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeMysteryItem/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stop! If you let me go, I'll give you this ^orange;valuable item^reset;! What do you think?",
+      "Rus": "Стой! Если ты меня отпустишь, я дам тебе ^orange;ценную вещь^reset;! Что ты думаешь?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/apex/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "THE MINIKNOG PUT THINGS IN MY BRAIN AND NOW I CAN READ THE MINDS OF COMPUTERS! IT'S TERRIBLE!",
+      "Rus": "ШТУКОВИНА МИНИСТЕРСТВА В МОЕМ МОЗГУ И ТЕПЕРЬ Я МОГУ ЧИТАТЬ РАЗУМЫ КОМПЬЮТЕРОВ! ЭТО УЖАСНО!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/avian/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "THE STARGAZERS SHOWED ME THE TRUTH! I KNOW THE SECRET TRUTHES OF THIS UNIVERSE!",
+      "Rus": "ЗВЁЗДОЧЕТЫ ПОКАЗАЛИ МНЕ ИСТИНУ! Я ЗНАЮ ТАЙНУЮ ИСТИНУ ЭТОГО МИРА!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/hylotl/default/6"
+      ]
+    },
+    "Texts": {
+      "Eng": "THIS ISN'T EVEN MY FINAL FORM!",
+      "Rus": "ЭТО ДАЖЕ НЕ МОЯ ФИНАЛЬНАЯ ФОРМА!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/apex/default/4",
+        "/flee/avian/default/4",
+        "/flee/default/default/4",
+        "/flee/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The Peacekeepers are here! Time to escape!",
+      "Rus": "Миротворцы здесь! Бежим!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/apex/default/3",
+        "/deceptive/avian/default/3",
+        "/deceptive/default/default/3",
+        "/deceptive/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "The criminal just passed by! They went that way - you should chase them before it's too late!",
+      "Rus": "Преступники только что прошли мимо тебя! Они побежали тем путем - тебе надо броситься в погоню за ними, пока не поздно!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "The light is drivin' me crazy! Do you know how hard it is to SLEEP when yer whole body is as bright as a star?!",
+      "Rus": "Этот свет сводит меня с ума! Ты знаешь, как тяжело СПАТЬ, когда все твое тело сияет, как звезда?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/avian/default/1",
+        "/crazy/default/default/1",
+        "/crazy/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "The secret truth is that everything is pixelly and flat! It can't just be me who sees it, can it?!",
+      "Rus": "Секрет в том, что все пиксельно и плоско! Я не могу же только я это видеть, не так ли?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeAccepted/apex/default/2",
+        "/bribeAccepted/avian/default/2",
+        "/bribeAccepted/default/default/2",
+        "/bribeAccepted/glitch/default/2/glitchEmotedText",
+        "/bribeAccepted/hylotl/default/2",
+        "/bribeAccepted/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "There you go! I knew I could bribe my way out of this situation. See you around!",
+      "Rus": "Вот и ты! Я знал<self.pronoun.verbEnding>, что смогу купить свой выход из этой ситуации. Увидимся!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/apex/default/5",
+        "/deceptive/avian/default/5",
+        "/deceptive/default/default/5",
+        "/deceptive/hylotl/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "There's nothing suspicious around here, officer!",
+      "Rus": "Здесь вокруг ничего подозрительного, офицер!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/hylotl/default/7"
+      ]
+    },
+    "Texts": {
+      "Eng": "These clothes were weighing me down - without them I can unleash my TRUE POWER!",
+      "Rus": "Эти одежды давили на меня - без них я могу раскрыть всю свою ИСТИННУЮ СИЛУ!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/default/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "They say you should never count your chickens - well I did! It revealed ancient truths to me!",
+      "Rus": "Они говорят, что ты никогда не долж<self.pronoun.verb2Ending> считать своих цыплят - ну, я сделал<self.pronoun.verbEnding> это! Это открыло мне древние истины!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/hylotl/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Those weighted clothes were merely SUPPRESSING MY INNER POWER!",
+      "Rus": "Эта сдавливающая одежда просто ПОДАВЛЯЛА МОЮ ВНУТРЕННЮЮ СИЛУ!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time for Floran to run!",
+      "Rus": "Флорану пора бежать!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time to hit the ol' dirt road, and fast!",
+      "Rus": "Время отправиться в путь-дорогу, и быстро!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/apex/default/5",
+        "/flee/avian/default/5",
+        "/flee/default/default/5"
+      ]
+    },
+    "Texts": {
+      "Eng": "Time to run!",
+      "Rus": "Время бежать!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/avian/default/3",
+        "/flee/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uh-oh, I gotta clear my tail!",
+      "Rus": "О-оу, пора мне сбросить хвост!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uh-oh, I gotta clear my tail! ...Not that I have a tail!",
+      "Rus": "О-оу, пора мне сбросить хвост! ...Не то, чтобы у меня был хвост!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/apex/default/1",
+        "/deceptiveEnd/avian/default/1",
+        "/deceptiveEnd/default/default/1",
+        "/deceptiveEnd/hylotl/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Uh-oh, I've been foiled!",
+      "Rus": "О-оу, я сбился со следа!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/crazy/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "WE'RE ALL LIVING INSIDE A COMPUTER! WAKE UP!",
+      "Rus": "МЫ ВСЕ ЖИВЕМ ВНУТРИ КОМПЬЮТЕРА! ПРОСНИСЬ!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeWait/apex/default/0",
+        "/bribeWait/avian/default/0",
+        "/bribeWait/default/default/0",
+        "/bribeWait/hylotl/default/0",
+        "/bribeWait/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wait, wait! I have an offer for you!",
+      "Rus": "Стой, стой! У меня есть к тебе предложение!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeDeclined/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "Well ain't that a disappointment!",
+      "Rus": "Ну, разве это не разочарование!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptive/apex/default/4",
+        "/deceptive/avian/default/4",
+        "/deceptive/default/default/4",
+        "/deceptive/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "What's that? You're looking for... A criminal? I'll let you know if I see one.",
+      "Rus": "Что это? Ты ищешь... преступников? Я дам тебе знать, если увижу одного."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeDeclined/novakid/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "Yer should have taken the offer!",
+      "Rus": "Ты долж<self.pronoun.verb2Ending> был принять предложение!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/hylotl/floran/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You Floran are meant to be dumb enough to fall for that!",
+      "Rus": "Флоран, ты был настолько глуп, чтобы купиться на это!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/novakid/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You ain't never gonna catch me!",
+      "Rus": "Ты никогда ни за что меня не поймаешь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/tricked/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You have been caught by a jest! I used fake handcuffs to decieve you! Huzzah!",
+      "Rus": "Ты повел<self.pronoun.verb3Ending>! Я использовал<self.pronoun.verbEnding> ненастоящие наручники и обманул<self.pronoun.verbEnding> тебя! Ура!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeDeclined/floran/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You made an enemy of Floran!",
+      "Rus": "Ты сделал<player.pronoun.verbEnding> флорана своим врагом!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You saw through my clever ruse.",
+      "Rus": "Ты раскрыл<player.pronoun.verbEnding> мою хитрую уловку!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/apex/default/2",
+        "/deceptiveEnd/avian/default/2",
+        "/deceptiveEnd/default/default/2",
+        "/deceptiveEnd/hylotl/default/2",
+        "/deceptiveEnd/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You saw through my disguise! How could this be?!",
+      "Rus": "Ты раскрыл<player.pronoun.verbEnding> мою маскировку! Как это возможно?!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/default/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You saw through my disguise! It was I, <selfname>, all along!",
+      "Rus": "Ты раскрыл<player.pronoun.verbEnding> мою маскировку! Это был<self.pronoun.verbEnding> я, <selfname>, все время!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/apex/default/4",
+        "/deceptiveEnd/avian/default/4",
+        "/deceptiveEnd/hylotl/default/4"
+      ]
+    },
+    "Texts": {
+      "Eng": "You saw through my disguise! It was me, <selfname>, all along!",
+      "Rus": "Ты раскрыл<player.pronoun.verbEnding> мою маскировку! Это был<self.pronoun.verbEnding> я, <selfname>, все время!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeDeclined/default/default/1",
+        "/bribeDeclined/glitch/default/0/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "You should have taken the offer!",
+      "Rus": "Тебе следовало принять предложение!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/bribeDeclined/floran/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You'll regret not allying with Floran!",
+      "Rus": "Ты поплатишься за то, что не стал<player.pronoun.verbEnding> союзником флорана!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/deceptiveEnd/hylotl/floran/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're a Floran! How did you see through my disguise?",
+      "Rus": "Ты флоран! Как ты раскрыл<player.pronoun.verbEnding> мою маскировку?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/flee/apex/default/0",
+        "/flee/avian/default/0",
+        "/flee/default/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "You're never gonna catch me!",
+      "Rus": "Ты никогда не поймаешь меня!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/tricked/apex/default/2",
+        "/tricked/avian/default/2",
+        "/tricked/default/default/2",
+        "/tricked/hylotl/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've been bamboozled! Those were fake handcuffs! Ha ha!",
+      "Rus": "Я сбил<self.pronoun.verbEnding> тебя с толку! Это были фальшивые наручники! Ха-ха!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/tricked/hylotl/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've been decieved by my fake handcuffs! I'm as slippery as an eel!",
+      "Rus": "Мои фальшивые наручники обманули тебя! Я скользк<self.pronoun.adj3Ending> как угорь!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/tricked/avian/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've been decieved by my fake handcuffs! I'm still a FREE BIRD!",
+      "Rus": "Ты был обманут<player.pronoun.verbEnding> моими фальшивыми наручниками! Я все еще СВОБОДНАЯ ПТИЦА!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/tricked/apex/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've been decieved by my fake handcuffs! I'm still a free ape!",
+      "Rus": "Мои фальшивые наручники обманули тебя! Я все еще свободный апекс!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/tricked/default/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've been decieved by my fake handcuffs! I'm still as free as a bird!",
+      "Rus": "Ты был обманут<player.pronoun.verbEnding> моими фальшивыми наручниками! Я все еще свобод<self.pronoun.verb2Ending> как птица!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/tricked/novakid/default/3"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've been decieved by my fake handcuffs! Yee-haw",
+      "Rus": "Ты был<player.pronoun.verbEnding> обманут<player.pronoun.verbEnding> моими фальшивыми наручниками! Яхуу!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "dialog/bounty.config": [
+        "/tricked/novakid/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "You've been rumbled, partner! Those were fake handcuffs! Yee-haw!",
+      "Rus": "Ты был<player.pronoun.verbEnding> здорово ошарашен<player.pronoun.verbEnding>! Это были фальшивые наручники! Яхуу!"
+    }
+  }
+]

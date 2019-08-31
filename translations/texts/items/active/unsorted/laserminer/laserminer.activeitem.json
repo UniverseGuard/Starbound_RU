@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/unsorted/laserminer/laserminer.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A disposable mining tool that drills with a focused microwave beam.",
+      "Rus": "Одноразовый шахтерский инструмент, который копает с помощью сфокусированного микроволнового луча."
+    }
+  }
+]

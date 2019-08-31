@@ -1,0 +1,38 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/office.npctype": [
+        "/scriptConfig/dialog/converse/human/default/2"
+      ]
+    },
+    "Texts": {
+      "Eng": "I believe you have my stapler?",
+      "Rus": "Кажется, это у тебя мой степлер?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/office.npctype": [
+        "/scriptConfig/dialog/converse/human/default/1"
+      ]
+    },
+    "Texts": {
+      "Eng": "I work in finance - can't you tell by the bags under my eyes and my freshly-ironed shirt?",
+      "Rus": "Я работаю в сфере финансов. Вы разве не видите это по мешкам под глазами и идеально выглаженной рубашке?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "npcs/tenants/office.npctype": [
+        "/scriptConfig/dialog/converse/human/default/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "I'm working long hours to help finish an overdue project - luckily I can work from home!",
+      "Rus": "Я работаю сверхурочно, чтобы помочь закончить просроченный проект - к счастью, я могу работать из дома!"
+    }
+  }
+]

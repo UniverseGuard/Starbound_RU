@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/neon/neon.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "neon",
+      "Rus": "свечение"
+    }
+  }
+]

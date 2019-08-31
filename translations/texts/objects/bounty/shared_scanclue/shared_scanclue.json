@@ -1,0 +1,122 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/description"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A clue for a bounty.",
+      "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/apexDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A handprint!",
+      "Rus": "Отпечаток руки!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/floranDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floran can sssee hand!",
+      "Rus": "Флоран видит руку!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/avianDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Someone left this handprint behind, but my scanner can pick up its trace!",
+      "Rus": "Кто-то оставил этот отпечаток руки после себя, а мой сканнер может взять его след!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "The scan can pick up the faint trace of someone who was here recently.",
+      "Rus": "Сканирование может уловить едва различимый след того, кто недавно тут был."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/novakidDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This handprint couldn't have been made too long ago, I'm reckonin'!",
+      "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/hylotlDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This handprint here is practically invisible to the naked eye. Fortunately, I am rather observant.",
+      "Rus": "Этот отпечаток руки практически невидим невооружённым взглядом. К счастью, я более чем наблюдателен."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/bounty/scanclue1/scanclue1.object": [
+        "/humanDescription"
+      ],
+      "objects/bounty/scanclue2/scanclue2.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This weirdly large handprint must have been left here somewhat recently.",
+      "Rus": "Этот необычно большой отпечаток руки должно быть оставили совсем недавно."
+    }
+  }
+]

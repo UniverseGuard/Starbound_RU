@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/returnteleporter.config": [
+        "/destinations/0/planetName"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return to World",
+      "Rus": "Возвращение в мир"
+    }
+  }
+]

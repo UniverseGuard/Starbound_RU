@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/groucho/groucho.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Groucho Glasses",
+      "Rus": "Очки Граучо"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/groucho/groucho.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The original diguise. Still the best.",
+      "Rus": "Оригинальная маскировка. По прежнему идеальная."
+    }
+  }
+]

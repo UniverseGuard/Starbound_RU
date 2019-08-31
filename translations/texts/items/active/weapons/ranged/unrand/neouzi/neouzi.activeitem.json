@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/neouzi/neouzi.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "The classic uzi, now with laser rounds. Of course.",
+      "Rus": "Классический УЗИ, теперь с лазерными патронами. Естественно."
+    }
+  }
+]

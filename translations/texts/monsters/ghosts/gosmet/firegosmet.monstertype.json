@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ghosts/gosmet/firegosmet.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fire Gosmet",
+      "Rus": "Огненный Госмит"
+    }
+  }
+]

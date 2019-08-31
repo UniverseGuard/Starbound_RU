@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/neouzi/neouzi.activeitem": [
+        "/shortdescription"
+      ],
+      "items/active/weapons/ranged/unrand/neouzi/npcneouzi.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neo Uzi",
+      "Rus": "Нео УЗИ"
+    }
+  }
+]

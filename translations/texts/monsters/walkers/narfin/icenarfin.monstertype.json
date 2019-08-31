@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/narfin/icenarfin.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Narfin",
+      "Rus": "Ледяной Нарфин"
+    }
+  }
+]

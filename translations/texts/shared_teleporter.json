@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/warping/returnteleporter.config": [
+        "/destinations/0/name"
+      ],
+      "objects/teleporter/exitteleporter/returnteleporter.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Return Teleporter",
+      "Rus": "Возвращающий телепорт"
+    }
+  }
+]

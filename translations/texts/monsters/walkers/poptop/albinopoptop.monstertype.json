@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/poptop/albinopoptop.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Albino Poptop",
+      "Rus": "Поптоп-альбинос"
+    }
+  }
+]

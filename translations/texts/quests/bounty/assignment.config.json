@@ -1,0 +1,76 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/assignment.config": [
+        "/finalAssignment/gang/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Apocalyptic Occasus Cult",
+      "Rus": "Апокалиптический Культ Окказуса"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/assignment.config": [
+        "/bountyRanks/0/description",
+        "/tutorialAssignment/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rank I: Hopeful Hunter",
+      "Rus": "Ранг I: Окрылённый Охотник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/assignment.config": [
+        "/bountyRanks/1/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rank II: Aspiring Apprehender",
+      "Rus": "Ранг II: Стремящийся Сыщик"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/assignment.config": [
+        "/bountyRanks/2/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rank III: Dependable Deputy",
+      "Rus": "Ранг III: Заслуженный Заместитель"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/assignment.config": [
+        "/bountyRanks/3/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rank IV: Seasoned Sleuth",
+      "Rus": "Ранг IV: Испытанная Ищейка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/assignment.config": [
+        "/bountyRanks/4/description",
+        "/finalAssignment/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rank V: Proven Peacekeeper",
+      "Rus": "Ранг V: Могучий Миротворец"
+    }
+  }
+]

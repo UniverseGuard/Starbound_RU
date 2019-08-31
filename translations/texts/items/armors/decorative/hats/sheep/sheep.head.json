@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/sheep/sheep.head": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sheep Hat",
+      "Rus": "Овечья шапка"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/armors/decorative/hats/sheep/sheep.head": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Wake up, sheeple!",
+      "Rus": "Проснись, овечка!"
+    }
+  }
+]

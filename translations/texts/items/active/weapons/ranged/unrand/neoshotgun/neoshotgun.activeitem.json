@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/neoshotgun/neoshotgun.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A state-of-the-art shotgun, manufactured for various criminal organisations.",
+      "Rus": "Современный дробовик, производенный для различных преступных группировок."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/neoshotgun/neoshotgun.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neo Shotgun",
+      "Rus": "Нео дробовик"
+    }
+  }
+]

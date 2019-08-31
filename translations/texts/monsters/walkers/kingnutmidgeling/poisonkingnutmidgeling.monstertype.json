@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/kingnutmidgeling/poisonkingnutmidgeling.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison King Nutmidgeling",
+      "Rus": "Ядовитый Король Натмейджилинг"
+    }
+  }
+]

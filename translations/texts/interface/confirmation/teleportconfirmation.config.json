@@ -8,7 +8,7 @@
     },
     "Texts": {
       "Eng": "\n\nAre you ready for me to deploy you to my ^orange;mech test course^white;? I built it in an abandoned freighter I stumbled upon.",
-      "Rus": "\nВы готовы отправиться на ^orange; курс испытания мехов^white;? Я создал его в заброшенном грузовом корабле, на который я случайно наткнулся."
+      "Rus": "\nВы готовы отправиться на ^orange; курс испытания мехов^white;? Я проведу его в заброшенном грузовом корабле, на который я случайно наткнулся."
     }
   },
   {
@@ -32,7 +32,7 @@
     },
     "Texts": {
       "Eng": "\n\nAre you ready for me to send you to my ^orange;advanced mech test course^white;? \n^red;You might want to assemble a strong enough mech before you go.",
-      "Rus": "\n\nВы готовы отправится на ^orange;продвинутый курс испытаний мехов^white;? ^red;Думаю вам стоит собрать достаточно сильного меха перед отправкой."
+      "Rus": "\n\nВы готовы отправится на ^orange;продвинутый курс испытаний мехов^white;? ^red;Думаю, вам стоит собрать достаточно мощного меха перед отправкой."
     }
   },
   {
@@ -44,7 +44,7 @@
     },
     "Texts": {
       "Eng": "\n\nAre you ready for me to send you to my ^orange;arms testing site^white; to fight my Shockhopper MK I?\n^red;You'll want to have very good equipment for this.",
-      "Rus": "\n\nВы готовы отправиться на полигон для испытаний оружия, чтобы сразиться с Шокхоппером MK I?\n^red;Вам стоит хорошенько подготовиться."
+      "Rus": "\n\nВы готовы отправиться на полигон для испытаний оружия, чтобы сразиться с Шокхоппером MK I?\n^red;Вам стоит очень хорошо подготовиться."
     }
   },
   {
@@ -101,6 +101,30 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/confirmation/teleportconfirmation.config": [
+        "/bounty/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\nThis console will teleport you to the target's hideout.",
+      "Rus": "\nЭтот пульт телепортирует вас в убежище цели."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/cyberspace/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "\nThis terminal is connected to a criminal network.\n\nAre you ready to hack into cyberspace?",
+      "Rus": "\nЭтот терминал подключен к преступной сети.\n\nВы готовы взломать киберпространство?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
         "/mechupgrade2/subtitle"
       ]
     },
@@ -143,6 +167,30 @@
     "Texts": {
       "Eng": "Arena Champion: Templar Inferno",
       "Rus": "Чемпион Арены: Пылающий Храмовник"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/bounty/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Bounty Lair",
+      "Rus": "Логово наемников"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
+        "/cyberspace/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cyberspace Terminal",
+      "Rus": "Киберпространственный терминал"
     }
   },
   {
@@ -199,6 +247,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "interface/confirmation/teleportconfirmation.config": [
+        "/cyberspace/okCaption"
+      ]
+    },
+    "Texts": {
+      "Eng": "Hack",
+      "Rus": "Взломать"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/confirmation/teleportconfirmation.config": [
         "/mechunlock/subtitle"
       ]
     },
@@ -238,6 +298,7 @@
         "/arena1/okCaption",
         "/arena2/okCaption",
         "/arena3/okCaption",
+        "/bounty/okCaption",
         "/mechunlock/okCaption",
         "/mechupgrade2/okCaption",
         "/penguinmission2/okCaption",
@@ -258,6 +319,8 @@
         "/arena1/title",
         "/arena2/title",
         "/arena3/title",
+        "/bounty/title",
+        "/cyberspace/title",
         "/mechunlock/title",
         "/mechupgrade2/title",
         "/penguinmission1/title",

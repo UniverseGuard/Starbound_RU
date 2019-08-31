@@ -1,0 +1,50 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/slopedpolygon.material": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A curious material made of \"Hard Light\".",
+      "Rus": "Любопытный материал, созданный из \"Твёрдого света\"."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/slopedpolygon.material": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "It feelsss electric.",
+      "Rus": "Здесь чуствуетссся электричество."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/slopedpolygon.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Polygon Panel",
+      "Rus": "Многоугольная панель"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "tiles/materials/slopedpolygon.material": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This matter is made of \"Hard Light\".",
+      "Rus": "Этот материал создан из \"Твёрдого света\"."
+    }
+  }
+]

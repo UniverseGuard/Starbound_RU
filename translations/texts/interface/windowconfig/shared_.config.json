@@ -60,6 +60,9 @@
       "interface/windowconfig/portraitconfirmation.config": [
         "/paneLayout/windowtitle/title"
       ],
+      "interface/windowconfig/simpleconfirmation.config": [
+        "/paneLayout/windowtitle/title"
+      ],
       "interface/windowconfig/warpout.config": [
         "/paneLayout/windowtitle/title"
       ]
@@ -67,26 +70,6 @@
     "Texts": {
       "Eng": "Confirmation",
       "Rus": "Подтверждение"
-    }
-  },
-  {
-    "DeniedAlternatives": [
-      "Отменить"
-    ],
-    "Files": {
-      "interface/windowconfig/newquest.config": [
-        "/paneLayout/btnDecline/caption"
-      ],
-      "interface/windowconfig/newquestshort.config": [
-        "/paneLayout/btnDecline/caption"
-      ],
-      "interface/windowconfig/teaminvitation.config": [
-        "/paneLayout/close/caption"
-      ]
-    },
-    "Texts": {
-      "Eng": "Decline",
-      "Rus": "Отклонить"
     }
   },
   {
@@ -111,6 +94,12 @@
       ],
       "interface/windowconfig/questcomplete.config": [
         "/paneLayout/btnAccept/caption"
+      ],
+      "interface/windowconfig/questcomplete_bounty.config": [
+        "/paneLayout/btnAccept/caption"
+      ],
+      "interface/windowconfig/simpleconfirmation.config": [
+        "/paneLayout/ok/caption"
       ],
       "interface/windowconfig/warpout.config": [
         "/paneLayout/ok/caption"
@@ -167,6 +156,9 @@
         "/paneLayout/lblQuestTitle/value"
       ],
       "interface/windowconfig/questcomplete.config": [
+        "/paneLayout/lblQuestTitle/value"
+      ],
+      "interface/windowconfig/questcomplete_bounty.config": [
         "/paneLayout/lblQuestTitle/value"
       ],
       "interface/windowconfig/questfailed.config": [
@@ -327,6 +319,9 @@
         "/paneLayout/lblQuestBody/value"
       ],
       "interface/windowconfig/questcomplete.config": [
+        "/paneLayout/lblQuestBody/value"
+      ],
+      "interface/windowconfig/questcomplete_bounty.config": [
         "/paneLayout/lblQuestBody/value"
       ],
       "interface/windowconfig/questfailed.config": [

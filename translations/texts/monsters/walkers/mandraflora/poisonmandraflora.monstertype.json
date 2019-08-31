@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/mandraflora/poisonmandraflora.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Mandraflora",
+      "Rus": "Ядовитый Мандрафлора"
+    }
+  }
+]

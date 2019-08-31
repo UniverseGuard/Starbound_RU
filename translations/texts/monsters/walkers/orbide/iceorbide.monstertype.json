@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/orbide/iceorbide.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Orbide",
+      "Rus": "Ледяной Орбайт"
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/15/prev/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Are you... Psychic?",
+      "Rus": "Ты... телепат?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/12/prev/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you deduce that passcode with your advanced detective skills? Nice work, partner!",
+      "Rus": "Ты вычислил пароль с помощью своих продвинутых детективных навыков? Отличная работа, партнёр!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/11/prev/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Did you just... Guess that passcode? You're a loose cannon, partner.",
+      "Rus": "Ты просто... Угадал<player.pronoun.verbEnding> пароль? Да ты опасная личность, партнёр"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/29/next/text/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "I can't believe it, partner! You took down the mysterious and handsome ^orange;Captain Ignoble^reset;! ^orange;Return to the Peacekeeper Station^reset; for a new assignment.",
+      "Rus": "Не могу в это поверить, партнёр! Ты победил<player.pronoun.verbEnding> загадочного и прекрасного ^orange;Капитана Шнобеля^reset;! ^orange;Возвращайся на Станцию Миротворцев^reset; за новым заданием."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/19/mid/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "I like your style - no need to find the vault code, just guess it! Nice work, partner!",
+      "Rus": "Мне нравится твой стиль: не нужно искать код от хранилища, если можно просто угадать его! Отличная работа, партнёр!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/17/mid/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice hacking, partner! What were the chances that you would successfully guess that?",
+      "Rus": "Отличные навыки взлома, партнёр! Каковы там были шансы, что ты успешно его угадаешь?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/29/prev/text/message"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nice work findin' all those clues, partner! You have enough info to track down the rowdy ^green;Captain Ignoble^reset; now!",
+      "Rus": "Отличная работа по поиску всех этих улик, партнёр! Теперь тебе хватит информации, чтобы выследить буйного ^green;Капитана Шнобеля^reset;!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/16/prev/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "No password-protected vault can slow you down, huh?",
+      "Rus": "Никакое защищённое паролем хранилище не сможет остановить тебя, а?"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/18/mid/text/skipMessage"
+      ]
+    },
+    "Texts": {
+      "Eng": "We didn't even find that code yet. Impressive hacking, partner!",
+      "Rus": "Мы даже ещё не нашли код. Впечатляющие навыки взлома, партнёр!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/11/next/text/questLog",
+        "/edges/12/next/text/questLog"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<coordinate.name>^reset;:\nA clue I found here gave me the vault code: <password>.\n\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/13/next/text/questLog",
+        "/edges/14/next/text/questLog"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<coordinate.name>^reset;:\nA console here gave me the vault code: <password>.\n\n"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/bounty/generator.config": [
+        "/edges/15/next/text/questLog",
+        "/edges/16/next/text/questLog"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;<coordinate.name>^reset;:\nAfter some persuasion, a lackey provided me with the code for the vault: <password>.\n\n"
+    }
+  }
+]

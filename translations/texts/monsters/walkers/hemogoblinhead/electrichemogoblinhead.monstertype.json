@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/hemogoblinhead/electrichemogoblinhead.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electric Hemogoblin Head",
+      "Rus": "Голова электрического Гемогоблина"
+    }
+  }
+]

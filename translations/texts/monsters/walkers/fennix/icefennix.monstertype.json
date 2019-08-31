@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/fennix/icefennix.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Fennix",
+      "Rus": "Ледяной Фенникс"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/fennix/icefennix.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Sometimes when chasing its own tail it can accidentally freeze itself.",
+      "Rus": "Иногда, гоняясь за собственным хвостом он может себя заморозить."
+    }
+  }
+]

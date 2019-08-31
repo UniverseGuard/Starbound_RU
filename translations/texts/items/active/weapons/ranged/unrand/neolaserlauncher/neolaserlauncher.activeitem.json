@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/neolaserlauncher/neolaserlauncher.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A powerful proton cannon, built to deal heavy-duty justice.",
+      "Rus": "Мощная протонная пушка, созданная, чтобы нести правосудие в тяжёлых случаях."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/neolaserlauncher/neolaserlauncher.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Lazercaster",
+      "Rus": "Лазерплавильщик"
+    }
+  }
+]

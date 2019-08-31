@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/augments/back/peacekeeper3.augment": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Peacekeeper III Augment",
+      "Rus": "Модуль Миротворцев III"
+    }
+  }
+]

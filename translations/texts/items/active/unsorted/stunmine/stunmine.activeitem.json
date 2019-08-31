@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/unsorted/stunmine/stunmine.activeitem": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Stun Mine",
+      "Rus": "Техномина"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/unsorted/stunmine/stunmine.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "This remotely-triggered inertial inhibitor keep subjects briefly locked in place.",
+      "Rus": "Этот инерционный ингибитор, активируемый дистанционно, удерживает субъектов на короткое время в заблокированном месте."
+    }
+  }
+]

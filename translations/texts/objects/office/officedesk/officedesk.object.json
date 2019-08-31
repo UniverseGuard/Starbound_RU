@@ -1,0 +1,110 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officedesk/officedesk.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A basic desk, looks like it belongs in an office.",
+      "Rus": "Этот простой письменный стол выглядит так, будто его место в офисе."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officedesk/officedesk.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A desssk made of wood and metal.",
+      "Rus": "Ссстол из дерева и металла."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officedesk/officedesk.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A plain metal desk with a wood surface.",
+      "Rus": "Простой металлический письменный стол с деревянной поверхностью."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officedesk/officedesk.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A simple desk made from wood and metal.",
+      "Rus": "Простой письменный стол из дерева и металла."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officedesk/officedesk.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A very plain looking metal desk.",
+      "Rus": "Очень простой на вид металлический письменный стол."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officedesk/officedesk.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Just an 'ol desk with a couple metal drawers.",
+      "Rus": "Просто старый письменный стол с парой металлических ящиков."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officedesk/officedesk.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Office Desk",
+      "Rus": "Офисный письменный стол"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officedesk/officedesk.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This desk has a very basic design.",
+      "Rus": "Этот стол имеет очень простой дизайн."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officedesk/officedesk.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This desk isn't pretty, but it's functional.",
+      "Rus": "Выглядит этот стол не очень, но свои функции выполняет."
+    }
+  }
+]

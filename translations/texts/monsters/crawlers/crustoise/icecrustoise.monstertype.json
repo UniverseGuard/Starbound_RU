@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/crawlers/crustoise/icecrustoise.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Crustoise",
+      "Rus": "Ледяной Корки"
+    }
+  }
+]

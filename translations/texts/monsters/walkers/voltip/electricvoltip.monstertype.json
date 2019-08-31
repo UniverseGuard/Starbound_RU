@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/voltip/electricvoltip.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electric Voltip",
+      "Rus": "Электрический Волтип"
+    }
+  }
+]

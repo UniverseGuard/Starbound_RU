@@ -1,0 +1,162 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/windowtitle/title"
+      ]
+    },
+    "Texts": {
+      "Eng": " Bounty Board",
+      "Rus": "Доска с заданиями"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/windowtitle/subtitle"
+      ]
+    },
+    "Texts": {
+      "Eng": " The Galaxy's Most Wanted",
+      "Rus": "Самые разыскиваемые в галактике"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/summaryOverlay/children/lblCreditsHeader/value",
+        "/gui/summaryOverlay/children/lblCreditsList/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Credits",
+      "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/posterTags/majorText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "HIGH VALUE",
+      "Rus": "ВЫСОКАЯ ОПЛАТА"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/assignmentFormat"
+      ]
+    },
+    "Texts": {
+      "Eng": "Investigate the ^yellow;<gangName>^reset; near ^cyan;<systemName>",
+      "Rus": "Разыщите банду ^yellow;<gangName>^reset; в районе cистемы ^cyan;<systemName>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/posterTags/capstoneText/0"
+      ]
+    },
+    "Texts": {
+      "Eng": "LEADER",
+      "Rus": "ГЛАВАРЬ"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/summaryOverlay/children/lblRankHeader/value",
+        "/gui/summaryOverlay/children/lblRankList/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Rank",
+      "Rus": "Должность"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/summaryOverlay/children/lblStatusHeader/value",
+        "/gui/summaryOverlay/children/lblStatusList/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "Status",
+      "Rus": "Статус"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/gui/lblOtherAssignment/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "You are assigned to another Peacekeeper Department.",
+      "Rus": "Вы приписаны к другому отделению Миротворцев."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/posterTypes/major/children/lblCaptureType/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#<posterColor>;<captureType>",
+      "Rus": "^#<posterColor>;<captureType>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/posterTypes/major/children/lblName/value",
+        "/posterTypes/minor/children/lblName/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#<posterColor>;<targetName>",
+      "Rus": "^#<posterColor>;<targetName>"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/newAssignmentText"
+      ]
+    },
+    "Texts": {
+      "Eng": " New Assignment!",
+      "Rus": " Новая задача!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/scripted/bountyboard/bountyboardgui.config": [
+        "/newRankText"
+      ]
+    },
+    "Texts": {
+      "Eng": " Rank Up!",
+      "Rus": " Повышение!"
+    }
+  }
+]

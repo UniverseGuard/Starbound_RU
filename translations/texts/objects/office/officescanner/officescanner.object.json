@@ -1,0 +1,110 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officescanner/officescanner.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A tall antiquated device used for assisting in paperwork.",
+      "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officescanner/officescanner.object": [
+        "/floranDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Big machine makesss funny noisesss.",
+      "Rus": "Большая машина издающая ссмешные звуки."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officescanner/officescanner.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Office Scanner",
+      "Rus": "Офисный сканер"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officescanner/officescanner.object": [
+        "/humanDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "The display on this machine says paper jam.",
+      "Rus": "На дисплее отображается сообщение о том что устройство зажевало бумагу."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officescanner/officescanner.object": [
+        "/hylotlDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "There are so many buttons on this machine!",
+      "Rus": "На этом устройстве так много кнопок!"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officescanner/officescanner.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This large machine must be very powerful - it says all-in-one.",
+      "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officescanner/officescanner.object": [
+        "/glitchDescription/glitchEmotedText"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine has ports designed to connect to an ancient human communication network.",
+      "Rus": ""
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officescanner/officescanner.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This machine says multi-function, but I don't understand what it does.",
+      "Rus": "Эта машина говорит что она многофункциональная, но я не понимаю что она должна делать."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/office/officescanner/officescanner.object": [
+        "/novakidDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "This thing looks complicated - I can't figure out what it's all about.",
+      "Rus": "Энта штука выглядит сложной. Понятия не имею что она вообще должна делать."
+    }
+  }
+]

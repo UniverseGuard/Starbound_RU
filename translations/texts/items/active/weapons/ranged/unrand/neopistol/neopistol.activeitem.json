@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unrand/neopistol/neopistol.activeitem": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A common black-market laser weapon.",
+      "Rus": "Обычное лазерное оружие с черного рынка."
+    }
+  }
+]

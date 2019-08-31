@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ghosts/pyromantle/poisonpyromantle.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Its toxic core produces a constant flow of poison. It throws a good punch.",
+      "Rus": "Его токсичное ядро вырабатывает постоянный поток яда. Этим он наносит неплохой удар."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ghosts/pyromantle/poisonpyromantle.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Pyromantle",
+      "Rus": "Ядовитый Пиромантл"
+    }
+  }
+]

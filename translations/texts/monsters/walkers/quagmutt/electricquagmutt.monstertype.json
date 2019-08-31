@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/quagmutt/electricquagmutt.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electric Quagmutt",
+      "Rus": "Электрический Квакмут"
+    }
+  }
+]

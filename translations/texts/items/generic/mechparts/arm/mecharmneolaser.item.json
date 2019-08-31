@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmneolaser.item": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A ranged offensive beam weapon designed for Peacekeeper agents.",
+      "Rus": "Лучевое оружие дальнего боя, разработанное для агентов Миротворецев."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/generic/mechparts/arm/mecharmneolaser.item": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Neo Laser Mech Arm",
+      "Rus": "Рука с Нео лазером"
+    }
+  }
+]

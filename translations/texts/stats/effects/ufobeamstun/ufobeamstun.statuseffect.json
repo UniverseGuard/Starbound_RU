@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "stats/effects/ufobeamstun/ufobeamstun.statuseffect": [
+        "/label"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ufo Abduction",
+      "Rus": "Похищение НЛО"
+    }
+  }
+]

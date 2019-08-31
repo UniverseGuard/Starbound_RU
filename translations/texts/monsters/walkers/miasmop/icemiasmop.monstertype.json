@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/miasmop/icemiasmop.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Ice Miasmop",
+      "Rus": "Ледяной Миасноп"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/miasmop/icemiasmop.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Prolonged exposure to its frigid fumes will knock you out.",
+      "Rus": "Длительное воздействие его холодных паров вырубит вас."
+    }
+  }
+]

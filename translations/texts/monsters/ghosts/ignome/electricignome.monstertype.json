@@ -1,0 +1,26 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ghosts/ignome/electricignome.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Electric Ignome",
+      "Rus": "Электрический Игном"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/ghosts/ignome/electricignome.monstertype": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Its electrified surface is surprisingly pleasant to touch. Just keep away from the sparks!",
+      "Rus": "Его наэлектризованная поверхность удивительно приятная на ощупь. Только держитесь подальше от искр!"
+    }
+  }
+]

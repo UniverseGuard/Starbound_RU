@@ -1,0 +1,14 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "monsters/walkers/pipkin/poisonpipkin.monstertype": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Poison Pipkin",
+      "Rus": "Ядовитый Пипкин"
+    }
+  }
+]
